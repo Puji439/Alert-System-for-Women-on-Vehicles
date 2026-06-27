@@ -9,5 +9,5 @@ GSM module automatically sends an emergency alert SMS with google map live locat
 Buzzer stays on until the system is reset.
 
 #Arduino Code
-[WomenSafetyAlertSystem.ino](Arduino_Code/WomenSafetyAlertSystem.ino)
+[WomenSafetyAlertSystemCode.ino](Arduino_Code/WomenSafetyAlertSystemCode.ino)
 
