@@ -7,5 +7,6 @@ LCD screen shows system is initialized and "system is ready".
 GPS module finds the exact live location using satellite signals.
 GSM module automatically sends an emergency alert SMS with google map live location to the saved emergency contact number.
 Buzzer stays on until the system is reset.
-
+##Arduino Code
+[WomenSafetyAlertSystem.ino](Arduino_Code/WomenSafetyAlertSystem.ino)
 
