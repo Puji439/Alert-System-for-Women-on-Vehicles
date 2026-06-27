@@ -1,5 +1,5 @@
 # Alert-System-for-Women-on-Vehicles
-This is a Women Safety Alert System using ESP32, GPS, GSM, LCD, and Buzzer for real-time emergency location tracking and SMS alerts.
+ESP32 based Women Safety Alert System using GPS, GSM, LCD, and Buzzer for real-time emergency location tracking and SMS alerts.
 "Alert System for Women on Vehicles" is an emergency safety device which is built for women travelling alone on vehicles.The main purpose of this project is to ensure women safety.
 This project involves the integration of ESP32,GPS,GSM,LCD and Buzer modules.
 When system is triggered by typing "start" in the serial monitor,buzzer immediately starts buzzing loudly to attract the nearby attention.
